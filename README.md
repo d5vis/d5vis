@@ -1,4 +1,3 @@
 # d5vis
 
-my personal site
-[d5vis](https://d5vis.me/)
+my [personal site](https://d5vis.me/)
