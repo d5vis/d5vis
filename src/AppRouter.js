@@ -7,7 +7,7 @@ import Contact from "./Contact";
 
 function AppRouter() {
   return (
-    <HashRouter basename="/">
+    <HashRouter basename={process.env.PUBLIC_URL}>
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/About" element={<About />} />

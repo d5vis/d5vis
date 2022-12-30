@@ -16,6 +16,7 @@ function Home() {
         <div>
           <p>current location : los angeles</p>
         </div>
+        <p></p>
       </header>
     </div>
   );
