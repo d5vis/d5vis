@@ -1,11 +1,30 @@
+@font-face {
+  font-family: pixel;
+  src: url("../public/pixel.ttf");
+}
+
+html,
+body {
+  margin: 0;
+  height: 100%;
+  overflow: hidden;
+}
+
 .App {
   text-align: center;
-  font-family: helvetica;
+  font-family: pixel;
   font-weight: bold;
+  background-color: #282d3c;
+  color: #9badb7;
+}
+
+.Nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
 }
 
 .App-header {
-  background-color: #adceed;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -15,13 +34,31 @@
   color: white;
 }
 
-.Title {
-  image-rendering: pixelated;
-  display: flex;
-  color: #1c314f;
-  font-size: 30px;
+p {
+  color: #9badb7;
 }
 
-.Portrait {
-  scale: 200%;
+a {
+  padding: 15px;
+  text-decoration: none;
+}
+
+/* unvisited link */
+a:link {
+  color: #9badb7;
+}
+
+/* visited link */
+a:visited {
+  color: #9badb7;
+}
+
+/* mouse over link */
+a:hover {
+  color: #ffc4b8;
+}
+
+/* selected link */
+a:active {
+  color: #9badb7;
 }

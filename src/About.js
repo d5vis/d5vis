@@ -1,16 +1,14 @@
 import portrait from "./images/standingSelfPortrait.png";
 import "./App.css";
-import Nav from "./Nav";
 
-import AppRouter from "./AppRouter";
-
-function App() {
+function About() {
   return (
     <div className="App">
-      <Nav />
-      <AppRouter />
+      <header className="App-header">
+        <p>do this worky?</p>
+      </header>
     </div>
   );
 }
 
-export default App;
+export default About;
