@@ -1,4 +1,4 @@
 # d5vis
 
-this is my personal site!
-(a work in progress)
+my personal site
+[d5vis](https://d5vis.me/)
