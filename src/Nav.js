@@ -4,7 +4,11 @@ export default function Nav() {
       <a href="#/">home</a>
       <a href="#/about">about</a>
       <a href="#/contact">contact</a>
-      <a href="https://github.com/d5vis" target="_blank">
+      <a
+        href="https://github.com/d5vis"
+        target="_blank"
+        rel="noreferrer noopener"
+      >
         github
       </a>
     </div>

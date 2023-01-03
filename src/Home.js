@@ -5,13 +5,14 @@ function Home() {
     <div className="App">
       <header className="App-header">
         <iframe
+          title="dorm"
           frameborder="0"
-          src="https://itch.io/embed-upload/7079556?color=282d3c"
+          src="https://itch.io/embed-upload/7100736?color=282d3c"
           allowfullscreen=""
           width="640"
           height="380"
         >
-          <a href="https://d5vis.itch.io/dormtest"></a>
+          <a href="https://d5vis.itch.io/dorm">Play DORM on itch.io</a>
         </iframe>
         <div>
           <p>current location : los angeles</p>

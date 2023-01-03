@@ -1,4 +1,3 @@
-import portrait from "./images/standingSelfPortrait.png";
 import "./App.css";
 import Nav from "./Nav";
 
