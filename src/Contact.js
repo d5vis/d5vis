@@ -1,4 +1,3 @@
-import portrait from "./images/standingSelfPortrait.png";
 import "./App.css";
 
 function Contact() {
@@ -16,12 +15,6 @@ function Contact() {
         <p>
           instagram:
           <a href="https://instagram.com/d5vis" target="_blank">
-            @d5vis
-          </a>
-        </p>
-        <p>
-          twitter:{" "}
-          <a href="https://twitter.com/d5vis" target="_blank">
             @d5vis
           </a>
         </p>
