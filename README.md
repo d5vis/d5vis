@@ -1,4 +1,4 @@
-### [@d5vis](https://d5vis.github.io) ✌🏽
+### [portfolio](https://d5vis.github.io)
 
 `Next.JS` `React` `TypeScript` `JavaScript` `Python` `Swift` `Angular` `Java` `Kotlin`
 
